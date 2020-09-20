@@ -1,0 +1,11 @@
+MainClass.class
+model\ImmutableBook$1.class
+model\Seller$Builder.class
+model\Book$Builder.class
+model\ImmutableBook$Builder.class
+model\Book.class
+model\ImmutableSeller$1.class
+model\ImmutableSeller.class
+model\Seller.class
+model\ImmutableBook.class
+model\ImmutableSeller$Builder.class
