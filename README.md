@@ -1,11 +1,11 @@
-#User Guide
+# User Guide
 
 This project provides you an insight of using Immutables.
 In this project I have created model.Book class and using Seller interface using immutable and created its object in MainClass. 
 This library provides 2 examples one using Abstract class and other using Interface.
 
-#Library uses [Immutables](https://immutables.github.io/) 
-##Dependency
+# Library uses [Immutables](https://immutables.github.io/) 
+## Dependency
 ```xml
         <dependency>
             <groupId>org.immutables</groupId>
@@ -31,7 +31,7 @@ Also need to add plugin in pom.xml
                 </executions>
             </plugin>
 ```
-#Configuring Intellij
+# Configuring Intellij
 For using Immutable with Intellij you need to configure Intellij like below:- 
 ![Annotation Processor in Intellij](Idea_immutable.PNG)
 
